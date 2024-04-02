@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "this song is sponsored by: the shadow government"
+    },
+    {
+      "id": "2",
+      "name": "legalize nuclear bombs"
+    },
+    {
+      "id": "3",
+      "name": "warning: nuking is now legal."
+    },
+    {
+      "id": "4",
+      "name": "Worldwide"
+    },
+    {
+      "id": "5",
+      "name": "haha pootis go poot poot"
+    }
+  ],
+  "customer": [
+    {
+      "id": "1",
+      "name": "joeyy"
+    }
+  ]
+}
